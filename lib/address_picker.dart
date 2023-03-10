@@ -251,10 +251,10 @@ class _AddressPickerState extends State<AddressPicker> {
       top: 0,
       child: Container(
         height: 30,
+		width: 375 - 28,
         margin: const EdgeInsets.only(left: 14, right: 14),
         decoration: widget.headerDecoration,
         padding: const EdgeInsets.only(top: 13),
-        width: 375,
         child: Row(
           children: [
             GestureDetector(

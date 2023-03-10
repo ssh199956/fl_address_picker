@@ -1,6 +1,6 @@
 name: fl_address_picker
 description: 用Flutter实现的省市区选择器, 开箱即用.
-version: 3.0.6
+version: 3.0.8
 author: shuaihong <s779097084@gmail.com>
 homepage: https://github.com/ssh199956/fl_address_picker
 
