@@ -1,0 +1,23 @@
+name: fl_address_picker
+description: 用Flutter实现的省市区选择器, 开箱即用.
+version: 3.0.6
+author: shuaihong <s779097084@gmail.com>
+homepage: https://github.com/ssh199956/fl_address_picker
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  #
+  assets:
+    - assets/address.json
